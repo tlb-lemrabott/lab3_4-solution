@@ -1,0 +1,17 @@
+What is Spring?
+Spring is an eco-system of a wide range of projects.
+
+What is Spring Boot?
+Spring boot is an auto-config module for Spring framework.
+
+What is the relation between Spring platform and Spring Boot?
+Spring boot is built on top of Spring platform.
+
+* What is the relation between Spring platform and Spring framework?
+Spring platform encompasses a lot of projects and modules that form the Spring ecosystem. Spring Framework is the core of this ecosystem.
+
+What is Dependency Injection and how is it done in the Spring platform/framework?
+DI means seperating the create of object from the uses. DI can be achieved in Spring framework through constructor injection, setter injection, or field injection.
+
+What is Inversion of Control (IoC) and how is it related to Spring?
+Circuling the contol between you and the framwork. Spring is framework, which does IoC.

@@ -1,0 +1,20 @@
+Functional Requirements for the ADS application system:
+
+* Office Manager:
+- Register Dentists with unique ID, First Name, Last Name, Contact Phone, Email, and Specialization.
+- Enroll new Patients with First Name, Last Name, Contact Phone, Email, Mailing Address, and Date of Birth.
+- Book appointments for Patients with Dentists, including date, time, and surgery location.
+- Send confirmation emails for booked appointments.
+- View Dentists' appointments and associated Patient details.
+- Manage cancellation or changes to appointments.
+- Prevent booking more than 5 appointments per week per Dentist.
+- Check and prevent appointment requests from Patients with outstanding unpaid bills.
+
+* Dentist Functions:
+- Sign in to view a listing of appointments.
+- View details of Patients scheduled to see them.
+
+* Patient Functions:
+- Sign in to view appointments.
+- Request appointments online.
+- Cancel or change appointments.
